@@ -1,5 +1,5 @@
 Test 1 : https://github.com/andrewleung/20191110/blob/master/Test%201
-<blockquote>
+
 Choose options 1-8.                                                                                                   
                                                                                                                                
 1       Display two complex numbers (precision is 3 for all displays)                                                          
@@ -13,11 +13,13 @@ Choose options 1-8.
 User input: 1
 
 Enter real and imaginary part of complex number C1: 2.200 3.560
+
 Enter real and imaginary part of complex number C2: 0 4.565
 
 C1: 2.200 - 3.560 i
+
 C2: 4.565i
-</blockquote>
+
 <img src="https://github.com/andrewleung/20191110/blob/master/p1.png"/>
 
 Source Code: https://github.com/andrewleung/20191110/blob/master/complex.c
