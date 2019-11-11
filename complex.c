@@ -43,10 +43,6 @@ int main()
                         printf("Invalid option.\n");
                         exit(1);
                 }
-        }
-        while(x<1||x>8);
-        while(x!=8)
-        {
                 switch(x)
                 {
                         case 1:
@@ -85,6 +81,7 @@ int main()
                                 exit(0);
                 }
         }
+        while(x!=8);
         return 0;
 }
 
