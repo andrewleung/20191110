@@ -20,6 +20,6 @@ C1: 2.200 - 3.560 i
 
 C2: 4.565i
 
-<img src="https://github.com/andrewleung/20191110/blob/master/p1.png"/>
+<img src="https://github.com/andrewleung/20191110/blob/master/p2.png"/>
 
 Source Code: https://github.com/andrewleung/20191110/blob/master/complex.c
