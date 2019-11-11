@@ -32,11 +32,13 @@ int main()
         do
         {
                 if(x<1||x>8)
-                        printf("\nInvalid. Choose options 1-8.\n\n");
+                        printf("\nChoose options 1-8.\n\n");
                 printf("1\tDisplay two complex numbers (precision is 3 for all displays)\n2\tShow the polar format of each complex number\n3\tShow the conjugate of each complex number\n4\tCalculate and display the addition of two complex numbers\n5\tCalculate and display the subtraction of two complex numbers\n6\tCalculate and display the multiplication of two complex numbers\n7\tCalculate and display the division of two complex numers");
                 printf("\nUser input: ");
                 rv=scanf("%d", &x);
-                if(rv!=1)
+                printf("\nrv %d", rv);
+                printf("\nx %d\n", x);
+                if(x<1||x>8)
                 {
                         printf("Invalid option.\n");
                         exit(1);
